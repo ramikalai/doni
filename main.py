@@ -1,1 +1,4 @@
-doni
+def printHello():
+    print("hello")
+
+printHello()
