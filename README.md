@@ -6,3 +6,7 @@ There is no set syllabus - we will see how we get along.
 
 ## Topics
 - Python basics
+- Functions
+- Variables
+- Loops
+- Conditionals 
